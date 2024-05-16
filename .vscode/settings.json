@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "Abnoan.HashSet/bin": true,
+    "Abnoan.HashSet/obj": true
+  }
+}
